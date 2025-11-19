@@ -2,7 +2,7 @@
 
 Atividade prática para a disciplina de Desenvolvimento Front-End / Banco de Dados. O projeto consiste na criação e manipulação de um banco de dados relacional para controlar empréstimos de equipamentos escolares.
 
-## 📂 O que tem neste repositório?
+##  O que tem neste repositório?
 
 O arquivo principal `Gestao-Equipamentos-SQL.sql` contém todo o script necessário para rodar o projeto:
 
@@ -11,12 +11,12 @@ O arquivo principal `Gestao-Equipamentos-SQL.sql` contém todo o script necessá
 3.  **Consultas:** Exemplos de relatórios usando `SELECT` com `JOIN` e `ORDER BY`.
 4.  **Atualizações e Remoções:** Comandos de `UPDATE` e `DELETE` conforme solicitado na atividade.
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * Linguagem SQL
 * MySQL Workbench (para modelagem e testes)
 
-## 🚀 Como rodar o projeto
+##  Como rodar o projeto
 
 1.  Baixe o arquivo `.sql` deste repositório.
 2.  Abra o arquivo no seu editor de banco de dados (MySQL Workbench, VS Code, etc).
